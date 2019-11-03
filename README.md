@@ -18,6 +18,7 @@ h5py==2.7.0<br />
 statistics<br />
 opencv-python==4.1.0.25<br />
 spotipy<br />
+matplotlib <br />
 
 Run ```pip install git+https://github.com/plamere/spotipy.git --upgrade```<br />
 
