@@ -5,4 +5,4 @@ numpy==1.16.4
 h5py==2.7.0
 statistics
 opencv-python==4.1.0.25
-git+https://github.com/plamere/spotipy.git --upgrade
+spotipy
