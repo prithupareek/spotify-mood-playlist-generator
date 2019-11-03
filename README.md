@@ -15,14 +15,16 @@ tensorflow==1.14.0<br />
 pandas==0.25.3<br />
 numpy==1.16.4<br />
 cython<br />
-h5py==2.7.0<br />
 statistics<br />
 opencv-python==4.1.0.25<br />
 spotipy<br />
 matplotlib<br />
 scipy==1.1.0<br />
+h5py==2.7.0<br />
 
 Run ```pip install git+https://github.com/plamere/spotipy.git --upgrade```<br />
+
+If installing h5py fails, then install using homebrew on mac.
 
 Run the program (spotify-mood-playlist-generator/src/main.py)<br />
 
