@@ -8,7 +8,7 @@ Webcam<br />
 ##Setup instructions:
 Log in to the Spotify Desktop App. <br />
 
-Run  ```sudo pip3 install -r REQUIREMENTS.txt ``` in terminal/command prompt. It will prompt you for the password. <br />
+Run  ```sudo pip3 install -r REQUIREMENTS.txt ``` in terminal/command prompt. It will prompt you for your password. <br />
 Or install the following individually(also found in REQUIREMENTS.txt):<br />
 keras==2.0.5<br />
 tensorflow==1.14.0<br />
