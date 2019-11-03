@@ -106,7 +106,7 @@ def emotionDetection():
 
     emotionsList = []
 
-    while len(emotionsList) < 50:
+    while len(emotionsList) < 10:
         bgr_image = video_capture.read()[1]
         rgb_image = cv2.cvtColor(bgr_image, cv2.COLOR_BGR2RGB)
         gray_image = cv2.cvtColor(bgr_image, cv2.COLOR_BGR2GRAY)
