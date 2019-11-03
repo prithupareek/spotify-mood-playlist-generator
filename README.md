@@ -20,6 +20,7 @@ statistics<br />
 opencv-python==4.1.0.25<br />
 spotipy<br />
 matplotlib<br />
+scipy==1.1.0<br />
 
 Run ```pip install git+https://github.com/plamere/spotipy.git --upgrade```<br />
 
