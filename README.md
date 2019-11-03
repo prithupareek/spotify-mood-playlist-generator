@@ -32,3 +32,6 @@ Run the program (spotify-mood-playlist-generator/src/main.py)<br />
 When you run the program for the first time, you will be sent to your default web browser. <br />
 It will bring up a login page for Spotify, where you will authorise the app to access your account to edit your playlists. <br />
 This will redirect you to another webpage. Copy the URL of the page, and paste it into the terminal prompt, and press enter.<br /> 
+
+Credits:
+Face Recognition Model from: https://github.com/oarriaga/face_classification
