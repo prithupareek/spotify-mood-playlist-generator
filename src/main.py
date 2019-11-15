@@ -171,8 +171,8 @@ def getSeedAttributes(mood, attributeDictionary):
     return (minV, maxV, minD, maxD, minE, maxE, name)
 
 # client id and secret for Spotify API
-SPOTIFY_CLIENT_ID = 'e45be9e967454039b8c8d82e6e40581e'
-SPOTIFY_CLIENT_SECRET = '24ea575d3b6344d4ab57f824fc08e0a5'
+SPOTIFY_CLIENT_ID = 'INSERT CLIENT ID'
+SPOTIFY_CLIENT_SECRET = 'INSERT CLIENT SECRET'
 SPOTIFY_REDIRECT_URI = 'http://prithupareek.com/hack112.html'
 
 # get username and authorize user
