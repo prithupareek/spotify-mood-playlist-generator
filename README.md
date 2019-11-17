@@ -27,6 +27,8 @@ Run ```pip install git+https://github.com/plamere/spotipy.git --upgrade```<br />
 If installing h5py fails, then install using homebrew on mac, using command
 brew install hdf5
 
+Put your spotify client id and secret where it asks for it in main.py
+
 Run the program (spotify-mood-playlist-generator/src/main.py)<br />
 
 When you run the program for the first time, you will be sent to your default web browser. <br />
