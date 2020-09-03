@@ -10,6 +10,7 @@ Log in to the Spotify Desktop App. <br />
 
 Run  ```sudo pip3 install -r REQUIREMENTS.txt ``` in terminal/command prompt. It will prompt you for your password. <br />
 Or install the following individually(also found in REQUIREMENTS.txt):<br />
+```
 keras==2.0.5<br />
 tensorflow==1.14.0<br />
 pandas==0.25.3<br />
@@ -21,6 +22,7 @@ spotipy<br />
 matplotlib<br />
 scipy==1.1.0<br />
 h5py==2.7.0<br />
+```
 
 Run ```pip install git+https://github.com/plamere/spotipy.git --upgrade```<br />
 
