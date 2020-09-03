@@ -1,11 +1,11 @@
 # spotify-mood-playlist-generator
 
-##Requirements:<br />
+## Requirements:<br />
 Spotify Premium Account<br />
 Spotify Desktop App<br />
 Webcam<br />
 
-##Setup instructions:
+## Setup instructions:
 Log in to the Spotify Desktop App. <br />
 
 Run  ```sudo pip3 install -r REQUIREMENTS.txt ``` in terminal/command prompt. It will prompt you for your password. <br />
